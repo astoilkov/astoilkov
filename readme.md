@@ -1,2 +1,2 @@
-- For the last 6 years I have been making [Nota](https://nota.md) — Pro writing app designed for local Markdown files
+- For the last 6 years I've been making [Nota](https://nota.md) — Pro writing app designed for local Markdown files
 - I've written down more than 300 tweets that I've never posted — [@antoniostoilkov](https://twitter.com/antoniostoilkov)
