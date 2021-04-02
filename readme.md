@@ -1,2 +1,2 @@
 - For the last 6 years I have been making [Nota](https://nota.md) — Pro writing app designed for local Markdown files
-- I write tweet drafts (I don't tweet them) then I wait for months and tweet around 2-3% of them — [@antoniostoilkov](https://twitter.com/antoniostoilkov)
+- I have written down more than 300 tweets that I've never posted — [@antoniostoilkov](https://twitter.com/antoniostoilkov)
