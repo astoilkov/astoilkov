@@ -1,2 +1,3 @@
-- For the last 6 years, I've been making [Nota](https://nota.md) — Pro writing app designed for local Markdown files
-- If what I do seems interesting, you can find me on Twitter — [@antoniostoilkov](https://twitter.com/antoniostoilkov)
+### 👋 
+
+**I am Antonio.** Learn more about me on [my website](https://astoilkov.com).
