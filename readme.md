@@ -1,3 +1,3 @@
 ### 👋 
 
-**I am [Antonio](https://astoilkov.com).**
+**I am [Antonio](https://astoilkov.com)**
