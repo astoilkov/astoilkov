@@ -12,6 +12,8 @@
 - [My kind of company](https://astoilkov.com/my-kind-of-company)
 - [Doubt conventions](https://astoilkov.com/doubt-conventions)
 
+<p>&nbsp;</p>
+
 <p align="center">
   <a href="https://astoilkov.com/">website</a>
   &nbsp;
