@@ -7,6 +7,7 @@
 
 ### Writings
 
+- [Simple is better than clever in open-source (by 250x)](https://astoilkov.com/simple-is-better-than-clever-in-open-source-by-250x)
 - [Better npm search proposal](https://astoilkov.com/better-npm-search-proposal)
 - [My open-source principles](https://astoilkov.com/my-open-source-principles)
 - [Open-source contributors worth sponsoring](https://astoilkov.com/open-source-contributors-worth-sponsoring)
