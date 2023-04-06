@@ -3,7 +3,7 @@
 ### Maker
 
 - [Nota](https://nota.md/) — Pro writing app designed for local Markdown files
-- [IntelliBar](https://intellibar.app/) — ChatGTP at your fingertips
+- [IntelliBar](https://intellibar.app/) — ChatGPT at your fingertips
 - [iBar](https://ibar.app/) — Launcher for the web
 
 ### Writings
