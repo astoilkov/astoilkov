@@ -18,13 +18,13 @@
 <p>&nbsp;</p>
 
 <p align="center">
-  <a href="https://astoilkov.com/">website</a>
+  <a href="https://astoilkov.com/"><b><i>website</i></b></a>
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://twitter.com/antoniostoilkov">twitter</a>
+  <a href="https://twitter.com/antoniostoilkov"><b><i>twitter</i></b></a>
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://astoilkov.com/newsletter">newsletter</a>
+  <a href="https://astoilkov.com/newsletter"><b><i>newsletter</i></b></a>
 </p>
