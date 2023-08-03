@@ -15,6 +15,10 @@
 - [My kind of company](https://astoilkov.com/my-kind-of-company)
 - [Doubt conventions](https://astoilkov.com/doubt-conventions)
 
+### Endorsement
+
+If you are building an Electron app, take a look at [Electron Vite](https://electron-vite.github.io/) — it's a game changer. I'm helping [@caoxiemeihao](https://github.com/caoxiemeihao) spread the word, I'm not associated.
+
 <p>&nbsp;</p>
 
 <p align="center">
