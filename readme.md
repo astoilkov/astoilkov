@@ -2,8 +2,8 @@
 
 ### Maker
 
+- [**IntelliBar**](https://intellibar.app/) — OpenAI powered assistant for the Mac
 - [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files
-- [**IntelliBar**](https://intellibar.app/) — ChatGPT at your fingertips
 - [**iBar**](https://ibar.app/) — Launcher for the web
 
 ### Writings
