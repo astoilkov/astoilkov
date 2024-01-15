@@ -11,7 +11,6 @@
 - [My open-source principles](https://astoilkov.com/my-open-source-principles)
 - [Open-source contributors worth sponsoring](https://astoilkov.com/open-source-contributors-worth-sponsoring)
 - [Better npm search proposal](https://astoilkov.com/better-npm-search-proposal)
-- [Simple is better than clever in open-source (by 250x)](https://astoilkov.com/simple-is-better-than-clever-in-open-source-by-250x)
 - [My kind of company](https://astoilkov.com/my-kind-of-company)
 - [Doubt conventions](https://astoilkov.com/doubt-conventions)
 
