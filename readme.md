@@ -8,18 +8,18 @@
 
 ### Open Source
 
-- [`use-storage-state`](https://github.com/astoilkov/use-storage-state) `#react` `#storage`
-- [`use-local-storage-state`](https://github.com/astoilkov/use-local-storage-state) `#react` `#storage`
-- [`use-session-storage-state`](https://github.com/astoilkov/use-session-storage-state) `#react` `#storage`
-- [`local-db-storage`](https://github.com/astoilkov/local-db-storage) `#storage`
-- [`main-thread-scheduling`](https://github.com/astoilkov/main-thread-scheduling) `#performance`
-- [`console-powers`](https://github.com/astoilkov/console-powers) `#debugging`
-- [`create-deep`](https://github.com/astoilkov/create-deep) `#solidjs`
-- [`element-box`](https://github.com/astoilkov/element-box) `#dom` `#tiny`
-- [`p-signal`](https://github.com/astoilkov/p-signal) `#async` `#tiny`
-- [`settle-it`](https://github.com/astoilkov/settle-it) `#util` `#tiny`
-- [`good-try`](https://github.com/astoilkov/good-try) `#util` `#tiny`
-- [`jsblocks`](https://github.com/astoilkov/jsblocks) `#dom` `#archived`
+- [`use-storage-state`](https://github.com/astoilkov/use-storage-state) **`#react`** **`#storage`**
+- [`use-local-storage-state`](https://github.com/astoilkov/use-local-storage-state) **`#react`** **`#storage`**
+- [`use-session-storage-state`](https://github.com/astoilkov/use-session-storage-state) **`#react`** **`#storage`**
+- [`local-db-storage`](https://github.com/astoilkov/local-db-storage) **`#storage`**
+- [`main-thread-scheduling`](https://github.com/astoilkov/main-thread-scheduling) **`#performance`**
+- [`console-powers`](https://github.com/astoilkov/console-powers) **`#debugging`** **`#popular`**
+- [`create-deep`](https://github.com/astoilkov/create-deep) **`#solidjs`**
+- [`element-box`](https://github.com/astoilkov/element-box) **`#dom`** **`#tiny`**
+- [`p-signal`](https://github.com/astoilkov/p-signal) **`#async`** **`#tiny`**
+- [`settle-it`](https://github.com/astoilkov/settle-it) **`#util`** **`#tiny`**
+- [`good-try`](https://github.com/astoilkov/good-try) **`#util`** **`#tiny`**
+- [`jsblocks`](https://github.com/astoilkov/jsblocks) **`#dom`** **`#archived`**
 
 ### Writings
 
