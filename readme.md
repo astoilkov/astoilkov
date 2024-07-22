@@ -19,6 +19,8 @@
 - [`settle-it`](https://github.com/astoilkov/settle-it) **`#util`** **`#tiny`**
 - [`good-try`](https://github.com/astoilkov/good-try) **`#util`** **`#tiny`**
 - [`jsblocks`](https://github.com/astoilkov/jsblocks) **`#dom`** **`#archived`**
+- [my open-source principles](https://astoilkov.com/my-open-source-principles) **`#article`**
+- [open-source contributors worth sponsoring](https://astoilkov.com/open-source-contributors-worth-sponsoring) **`#article`**
 
 <p>&nbsp;</p>
 
