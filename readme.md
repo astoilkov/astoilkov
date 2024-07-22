@@ -4,7 +4,6 @@
 
 - [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for the Mac
 - [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files
-- [**iBar**](https://ibar.app/) — Launcher for the web
 
 ### Open Source
 
