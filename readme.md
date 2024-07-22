@@ -20,14 +20,6 @@
 - [`good-try`](https://github.com/astoilkov/good-try) **`#util`** **`#tiny`**
 - [`jsblocks`](https://github.com/astoilkov/jsblocks) **`#dom`** **`#archived`**
 
-### Writings
-
-- [My open-source principles](https://astoilkov.com/my-open-source-principles)
-- [Open-source contributors worth sponsoring](https://astoilkov.com/open-source-contributors-worth-sponsoring)
-- [Better npm search proposal](https://astoilkov.com/better-npm-search-proposal)
-- [My kind of company](https://astoilkov.com/my-kind-of-company)
-- [Doubt conventions](https://astoilkov.com/doubt-conventions)
-
 <p>&nbsp;</p>
 
 <p align="center">
