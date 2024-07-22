@@ -28,8 +28,4 @@
   &nbsp;
   &nbsp;
   <a href="https://twitter.com/antoniostoilkov"><b><i>twitter</i></b></a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://astoilkov.com/newsletter"><b><i>newsletter</i></b></a>
 </p>
