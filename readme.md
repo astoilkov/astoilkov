@@ -11,6 +11,7 @@
 - [`local-db-storage`](https://github.com/astoilkov/local-db-storage) **`#storage`**
 - [`main-thread-scheduling`](https://github.com/astoilkov/main-thread-scheduling) **`#performance`**
 - [`console-powers`](https://github.com/astoilkov/console-powers) **`#debugging`**
+- [`segmenter`](https://github.com/astoilkov/segmenter) **`#nlp`**
 - [`create-deep`](https://github.com/astoilkov/create-deep) **`#solidjs`**
 - [`element-box`](https://github.com/astoilkov/element-box) **`#dom`** **`#tiny`**
 - [`p-signal`](https://github.com/astoilkov/p-signal) **`#async`** **`#tiny`**
