@@ -1,5 +1,10 @@
 ### 👋
 
+### Products
+
+- [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for the Mac
+- [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files
+
 ### Open Source
 
 - [`use-storage-state`](https://github.com/astoilkov/use-storage-state) **`#react`** **`#storage`**
@@ -16,11 +21,6 @@
 - [`good-try`](https://github.com/astoilkov/good-try) **`#util`** **`#tiny`**
 - [`jsblocks`](https://github.com/astoilkov/jsblocks) **`#dom`** **`#archived`**
 - [my open-source principles](https://astoilkov.com/my-open-source-principles) **`#article`**
-
-### Products
-
-- [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for the Mac
-- [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files
 
 <p>&nbsp;</p>
 
