@@ -7,12 +7,12 @@
 
 ### Open Source
 
+- [`console-powers`](https://github.com/astoilkov/console-powers) **`#debugging`**
+- [`main-thread-scheduling`](https://github.com/astoilkov/main-thread-scheduling) **`#performance`**
 - [`use-storage-state`](https://github.com/astoilkov/use-storage-state) **`#react`** **`#storage`**
 - [`use-local-storage-state`](https://github.com/astoilkov/use-local-storage-state) **`#react`** **`#storage`**
 - [`use-session-storage-state`](https://github.com/astoilkov/use-session-storage-state) **`#react`** **`#storage`**
 - [`local-db-storage`](https://github.com/astoilkov/local-db-storage) **`#storage`**
-- [`main-thread-scheduling`](https://github.com/astoilkov/main-thread-scheduling) **`#performance`**
-- [`console-powers`](https://github.com/astoilkov/console-powers) **`#debugging`**
 - [`segmenter`](https://github.com/astoilkov/segmenter) **`#text`**
 - [`create-deep`](https://github.com/astoilkov/create-deep) **`#solidjs`**
 - [`element-box`](https://github.com/astoilkov/element-box) **`#dom`** **`#tiny`**
