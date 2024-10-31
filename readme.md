@@ -9,6 +9,7 @@
 
 - [`console-powers`](https://github.com/astoilkov/console-powers) **`#debugging`**
 - [`main-thread-scheduling`](https://github.com/astoilkov/main-thread-scheduling) **`#performance`**
+- [`use-db`](https://github.com/astoilkov/use-db) **`react`** **`#storage`**
 - [`use-storage-state`](https://github.com/astoilkov/use-storage-state) **`#react`** **`#storage`**
 - [`use-local-storage-state`](https://github.com/astoilkov/use-local-storage-state) **`#react`** **`#storage`**
 - [`use-session-storage-state`](https://github.com/astoilkov/use-session-storage-state) **`#react`** **`#storage`**
