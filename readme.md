@@ -2,7 +2,7 @@
 
 ### Products
 
-- [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for the Mac
+- [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for Mac
 - [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files
 
 ### Open Source
