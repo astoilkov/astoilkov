@@ -2,8 +2,9 @@
 
 ### Products
 
-- [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for Mac
-- [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files
+- [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for Mac **`macOS`**
+- [**LlamaBarn**](https://github.com/ggml-org/LlamaBarn) — A cosy home for your LLMs **`macOS`** **`open-source`**
+- [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files **`macOS`**
 
 ### Open Source
 
@@ -15,11 +16,6 @@
 - [`use-session-storage-state`](https://github.com/astoilkov/use-session-storage-state) **`#react`** **`#storage`**
 - [`local-db-storage`](https://github.com/astoilkov/local-db-storage) **`#storage`**
 - [`segmenter`](https://github.com/astoilkov/segmenter) **`#text`**
-- [`create-deep`](https://github.com/astoilkov/create-deep) **`#solidjs`**
-- [`element-box`](https://github.com/astoilkov/element-box) **`#dom`** **`#tiny`**
-- [`p-signal`](https://github.com/astoilkov/p-signal) **`#async`** **`#tiny`**
-- [`settle-it`](https://github.com/astoilkov/settle-it) **`#util`** **`#tiny`**
-- [`good-try`](https://github.com/astoilkov/good-try) **`#util`** **`#tiny`**
 - [`jsblocks`](https://github.com/astoilkov/jsblocks) **`#dom`** **`#archived`**
 
 <p>&nbsp;</p>
@@ -29,5 +25,5 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://twitter.com/antoniostoilkov"><b><i>twitter</i></b></a>
+  <a href="https://x.com/antoniostoilkov"><b><i>@antoniostoilkov</i></b></a>
 </p>
