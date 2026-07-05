@@ -3,7 +3,7 @@
 ### Products
 
 - [**Nota**](https://nota.md/) — Pro writing app designed for local Markdown files **`macOS`**
-- [**LlamaBarn**](https://github.com/ggml-org/LlamaBarn) — A cosy home for your LLMs **`macOS`** **`open-source`*
+- [**LlamaBarn**](https://github.com/ggml-org/LlamaBarn) — A cosy home for your LLMs **`macOS`** **`open-source`**
 - [**IntelliBar**](https://intellibar.app/) — AI-powered assistant for Mac **`macOS`**
 
 ### Open Source
